@@ -1,11 +1,32 @@
-👋 Hi there! I'm a passionate backend developer with a knack for crafting robust and scalable web applications. My toolkit includes **Node.js**, **Express.js**, and **Puppeteer** for server-side magic, while **MongoDB**, **Prisma**, and **PostgreSQL** are my go-to databases for storing and retrieving data with finesse.
+## 👋 Hi, I’m Mubin
 
-I also dabble in bot development with **Telegraf.js** and have a solid understanding of **HTML**, **CSS**, and **JavaScript**, ensuring that my backend solutions are complemented with a touch of frontend elegance.
+> **“First, solve the problem. Then, write the code.”**  
+> — _John Johnson_
 
-Whether it's building APIs, automating tasks, or integrating databases, I'm all about creating seamless experiences. Let's connect and build something amazing together!
+I’m a Python developer focused on turning ideas into real-world tools, bots, and systems. My work is driven by a strong belief in automation, simplicity, and continuous learning.
 
+---
 
-<!---
-mubinxyz/mubinxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ What I Do Best
+
+- ⚙️ **Automation & Scripting** — Python scripts that simplify life and get things done
+    
+- 🤖 **Telegram Bots** — Powerful bots with `python-telegram-bot` + Flask APIs
+    
+- 📈 **Trading Systems** — Trend-following strategies using `backtesting.py`, `pandas`, and MetaTrader APIs
+    
+- 🌐 **Web Scraping** — High-performance data extraction with `scrapy`
+    
+- 📱 **App Development** — Cross-platform apps using React Native with Flask backends
+    
+
+---
+
+### 🔭 What I’m Building
+
+- 🛒 **ShopBot** — Telegram-powered e-commerce bot with full-stack app integration
+    
+- 📊 **Strategy Packs** — Modular backtesting-ready trading strategies
+    
+- 🧰 **Automation Toolkit** — Downloaders, scrapers, schedulers, and more
+    
