@@ -24,9 +24,6 @@ I’m a Python developer focused on turning ideas into real-world tools, bots, a
 
 ### 🔭 What I’m Building
 
-- 🛒 **ShopBot** — Telegram-powered e-commerce bot with full-stack app integration
-    
-- 📊 **Strategy Packs** — Modular backtesting-ready trading strategies
     
 - 🧰 **Automation Toolkit** — Downloaders, scrapers, schedulers, and more
     
