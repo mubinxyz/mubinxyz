@@ -1,29 +1,34 @@
-## 👋 Hi, I’m Mubin
 
+
+# 👋 Hi, I'm **Mubin**
+**Backend‑focused Python specialist** building data‑driven applications, automation systems, and highly practical tools.  
+I love turning real‑world problems into clean, scalable solutions.
+
+## 🐍 **Tech Stack**
+**Python & Frameworks**  
+- Django  
+- BeeWare (cross‑platform apps)  
+- Telebot (Telegram bots)  
+- Automation scripting
+
+**Data Science & Analysis**  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+**Scraping & Automation**  
+- BeautifulSoup  
+- Playwright  
+- Custom scraping pipelines  
+
+## 🎯 What I Do
+- Build **data science apps and utilities**  
+- Develop **Telegram bots** that automate workflows  
+- Create **backend systems** with Django  
+- Design **scraping solutions** for structured & unstructured data  
+- Ship clean, maintainable code with a focus on reliability
+
+## 📌 Philosophy  
 > **“First, solve the problem. Then, write the code.”**  
-> — _John Johnson_
+> — John Johnson
 
-I’m a Python developer focused on turning ideas into real-world tools, bots, and systems. My work is driven by a strong belief in automation, simplicity, and continuous learning.
-
----
-
-### 🛠️ What I Do Best
-
-- ⚙️ **Automation & Scripting** — Python scripts that simplify life and get things done
-    
-- 🤖 **Telegram Bots** — Powerful bots with `python-telegram-bot` + Flask APIs
-    
-- 📈 **Trading Systems** — Trend-following strategies using `backtesting.py`, `pandas`, and MetaTrader APIs
-    
-- 🌐 **Web Scraping** — High-performance data extraction with `scrapy`
-    
-- 📱 **App Development** — Cross-platform apps using React Native with Flask backends
-    
-
----
-
-### 🔭 What I’m Building
-
-    
-- 🧰 **Automation Toolkit** — Downloaders, scrapers, schedulers, and more
-    
